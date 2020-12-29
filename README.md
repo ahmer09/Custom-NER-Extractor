@@ -1,2 +1,2 @@
 # Custom-NER-Extractor
-custom trained model for capturing subject info of Tech startup 
+custom spacy trained model for capturing subject info of Tech startups
